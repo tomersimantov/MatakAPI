@@ -17,8 +17,4 @@ documented in PostMAN:
 - Files support
 - GeoJson support
 
----
-
-## My Contacts
-- [Facebook - Eli Leman](https://www.facebook.com/eli.leman)
-- [LinkedIn - Eli Leman](https://www.linkedin.com/in/liel-leman/)
+For backup purpose
