@@ -1,12 +1,10 @@
 # MatakAPI
 
 ## About MatakApp
-The purpose of the project is to develop a geographical component
-(implementation) tool for documented collaboration with international organizations.
+A year-round GIS project: Co-developed a joint HIT & IDF and humanitarian agencies GIS platform (JWT, REST API, .NET Core C#, HTML & CSS, JavaScript), defined and deployed the database in Amazon RDS with PostgreSQL, and deployed a GeoServer in Amazon ECS (Apache Tomcat, Jenkins, GDAL). Score of 100.
 
-the api is developed in APS.NET CORE 2.2 as RestAPI, that collaborates with lib file that manage the DB
 
-documented in PostMAN:
+Documented in Postman:
 
 [LINK](https://documenter.getpostman.com/view/7173606/S1LsXpsP)
 
@@ -17,4 +15,7 @@ documented in PostMAN:
 - Files support
 - GeoJson support
 
-For backup purpose
+
+![1](https://i.imgur.com/cCVNsM8.png)
+![2](https://i.imgur.com/fKZfihO.png)
+![3](https://i.imgur.com/82cfPdj.png)
