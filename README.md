@@ -19,3 +19,4 @@ Documented in Postman:
 ![1](https://i.imgur.com/cCVNsM8.png)
 ![2](https://i.imgur.com/fKZfihO.png)
 ![3](https://i.imgur.com/82cfPdj.png)
+<img src="https://pastepixel.com/image/aAS3FEw5WUueX9DtA5tN.png" alt=""/>
